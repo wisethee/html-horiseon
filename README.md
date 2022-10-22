@@ -1,5 +1,6 @@
 # HTML Horiseon
 _Code Refactor Project_
+[View Demo](https://wisethee.github.io/html-horiseon/)
 
 ### Acceptance Criteria
 The project must meet accessibility standards. You can achieve this completing the following:
