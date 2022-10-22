@@ -1,5 +1,6 @@
 # HTML Horiseon
 _Code Refactor Project_
+
 [View Demo](https://wisethee.github.io/html-horiseon/)
 
 ### Acceptance Criteria
