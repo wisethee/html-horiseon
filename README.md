@@ -3,6 +3,8 @@ _Code Refactor Project_
 
 [View Demo](https://wisethee.github.io/html-horiseon/)
 
+![Screenshot](https://github.com/wisethee/html-horiseon/blob/main/assets/images/screenshot.jpg?raw=true)
+
 
 ### Acceptance Criteria
 The project must meet accessibility standards. You can achieve this completing the following:
